@@ -1,4 +1,6 @@
-## How to Use
+### QR Code Generator // Gerador de QR Code
+
+### How to Use
 
 ### 1. Prerequisites
 
